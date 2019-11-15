@@ -1,1 +1,3 @@
-# java_HW
+# maven-project
+
+Simple Maven Project
